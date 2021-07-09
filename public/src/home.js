@@ -47,7 +47,7 @@ function getMostCommonGenres(books) {
         genres.push({name, count: 1})
       }//if there is no matching genre `name`, push a new object into the `genres` array containing the new `name` and `count` of 1 info
   })
-  genres = sortAndSlice(genres)
+  genres = sortAndSlice(genres) //helper function
   return genres
 }
   /*ALTERNATIVE WITHOUT HELPER FUNCTION:
