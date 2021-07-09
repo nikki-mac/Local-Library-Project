@@ -87,13 +87,13 @@ function getMostPopularAuthors(books, authors) {
   })
   popularAuthors = sortAndSlice(popularAuthors) // helper function
   return popularAuthors
+}
   /*ALTERNATIVE WITHOUT HELPER FUNCTION: 
   popularAuthors.sort((a, b) => 
   b.count - a.count).slice(0,5) 
   
 - .sort() sorts the array by popularity (value of `count`)
 - .slice() limits the array to only contain 5 objects or fewer */
-}
 
 
 
