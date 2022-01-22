@@ -105,6 +105,11 @@ You are tasked with writing several functions that work with the above datasets.
 
 🌟[Click here for live demo](https://local-library-project-eta.vercel.app/)🌟
 
+## 📸 Screenshots
+### 🍔 Full Dashboard View
+![Full Dashboard View](./assets/App-Screenshots/full-dashboard-view.png "Full Dashboard View: Reservations and Tables")
+
+
 
 ## 🖥 Run Locally
 
@@ -154,8 +159,6 @@ For your project to pass, all the following statements must be true:
 - The project uses at least two of the following JavaScript features: the ternary operator, the spread operator, object shorthand, array or object destructuring, and ```for/in``` loops.
 
 ### Account functions
-
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/11c23e4622a87eab216668be31c759ac-image.png)
 
 #### findAccountById()
 
@@ -272,8 +275,6 @@ getBooksPossessedByAccount(account, books, authors);
 ---
 
 ### Book functions
-
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/9012c8115fddba330e4958c3a907bcaa-image.png)
 
 #### findAuthorById()
 
@@ -421,8 +422,6 @@ getBorrowersForBook(book, accounts);
 ---
 
 ## Home functions
-
-![image.png](//res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/6e9b6e3b27d21cff7c80cd9efec9c421-image.png)
 
 ### getTotalBooksCount()
 
