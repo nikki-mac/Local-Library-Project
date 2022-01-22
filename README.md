@@ -90,6 +90,8 @@ Each book represents a physical book but also contains additional information. I
 - The ```borrows``` array is a list of transactions that have occurred with this book. For example, the above book has been borrowed three times.
     - The ```id``` for each "borrow" record matches with an account ID. In the above example, the account with an ID of ```"5f446f2e2a4fcd687493a775"``` has not yet returned the book, meaning they still are in possession of it.
 
+#### Functions
+You are tasked with writing several functions that work with the above datasets. The instructions for the functions can be found in the ```docs/``` folder.
 
 
 ## 💻 Tech Stack
