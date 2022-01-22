@@ -106,9 +106,20 @@ You are tasked with writing several functions that work with the above datasets.
 🌟[Click here for live demo](https://local-library-project-eta.vercel.app/)🌟
 
 ## 📸 Screenshots
-### 🍔 Full Dashboard View
-![Full Dashboard View](./assets/App-Screenshots/full-dashboard-view.png "Full Dashboard View: Reservations and Tables")
+### 📚 Local Library Home Page
+![Local Library Home](./assets/screenshots/library-home.png "Library Home")
 
+### 📚 Local Library Accounts Page
+![Local Library Accounts](./assets/screenshots/library-accounts.png "Library Accounts")
+
+### 📚 Local Library Account Details
+![Local Library Account Details](./assets/screenshots/library-account-stats.png "Library Account Details")
+
+### 📚 Local Library Books Page
+![Local Library Books](./assets/screenshots/library-books.png "Library Books")
+
+### 📚 Local Library Book Details
+![Local Library Book Details](./assets/screenshots/library-book-stats.png "Library Book Details")
 
 
 ## 🖥 Run Locally
